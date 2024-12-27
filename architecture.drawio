@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram id="u1GmasTMBnHDjQ_4ipYR" name="diagram">
-    <mxGraphModel dx="2074" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fpU_tKOSEVNSieGjS33L-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="519" y="900" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IWkwQokuJmNbkloqFcf0-1" value="fir" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+        <mxCell id="IWkwQokuJmNbkloqFcf0-1" value="fir" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="1020" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IWkwQokuJmNbkloqFcf0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="IWkwQokuJmNbkloqFcf0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="519" y="960" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IWkwQokuJmNbkloqFcf0-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+        <mxCell id="IWkwQokuJmNbkloqFcf0-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="20" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IWkwQokuJmNbkloqFcf0-8" value="pairwise dot product" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" parent="1" vertex="1">
